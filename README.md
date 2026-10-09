@@ -1,2 +1,2 @@
-# my-first-project
-My first Github project
+# supermarket-waiting-time
+
